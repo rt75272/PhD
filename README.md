@@ -1,1 +1,2 @@
-<h1 align="center">PhD in Artificial Intelligence with University of The Cumberlands</h1>
+<h1 align="center">PhD in Artificial Intelligence</h1>
+<h3 align="center">University of The Cumberlands</h3>
