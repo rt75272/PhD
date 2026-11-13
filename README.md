@@ -1,0 +1,1 @@
+# PhD in Artificial Intelligence with University of The Cumberlands
